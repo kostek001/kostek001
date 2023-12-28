@@ -1,12 +1,12 @@
 # Hi there 👋
 
 ### About Me
-I'm a fullstack developer, (to do) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus at imperdiet orci, ut scelerisque mi. Nulla eleifend semper risus, sit amet elementum lacus aliquet a. ulla volutpat tellus eu felis vestibulum gravida. Nulla nec elit placerat, imperdiet justo vitae, egestas eros.
+I'm a fullstack developer, (to do)
 
 ### Languages and tools 🛠️
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,php,svelte,tailwind,bootstrap,arduino,c,raspberrypi,docker,bash,git,github&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,php,svelte,tailwind,bootstrap,arduino,c,raspberrypi,docker,bash,git,github&perline=10" />
   </a>
 </p>
 
