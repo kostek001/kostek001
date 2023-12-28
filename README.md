@@ -28,7 +28,7 @@ I'm a fullstack developer, (to do)
   ![Static Badge](https://img.shields.io/badge/raspberry%20pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 </p>
 
-### Stats 📈
+### Github Stats 📈
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source
