@@ -29,7 +29,7 @@ I'm a fullstack developer, (to do)
 </p>
 
 ### Github Stats 📈
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=kostek001&show_icons=true&hide_border=true&theme=github_dark"
@@ -42,7 +42,7 @@ I'm a fullstack developer, (to do)
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kostek001&show_icons=true&hide_border=true" />
   </picture>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=github_dark"
