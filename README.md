@@ -1,7 +1,9 @@
 # ![baner-1](https://github.com/kostek001/kostek001/assets/69671514/d39c956c-c5da-4672-beaa-af00f1655997)
 
+![](https://komarev.com/ghpvc/?username=kostek001&style=for-the-badge)
+
 ### About Me
-I'm a fullstack developer, (to do)
+I'm a fullstack developer, student.
 
 ### Languages and tools 🛠️
 <p align="center">
