@@ -15,7 +15,6 @@ I'm a fullstack developer, student.
   ![Static Badge](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
   ![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
