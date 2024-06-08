@@ -46,14 +46,14 @@ I'm a fullstack developer, student.
 <a href="#">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=github_dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kostek001&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kostek001&layout=compact&langs_count=8&card_width=320&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&hide_border=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kostek001&layout=compact&langs_count=8&card_width=320&hide_border=true" />
   </picture>
 </a>
 
