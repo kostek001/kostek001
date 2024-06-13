@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=kostek001&style=for-the-badge)
 
-### About Me
-I'm a fullstack developer, student.
+[comment]: # (### About Me)
+[comment]: # (I'm a fullstack developer, student.)
 
 ### Languages and tools 🛠️
 <p align="center">
