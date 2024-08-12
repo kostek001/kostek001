@@ -39,7 +39,7 @@
 <br>
 
 Linux enthusiast, NixOS daily driver, self-hosting some stuff.  
-I started learning C++ in 2017 by watching [Pasja Informatyki](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo) on Youtube, and Linux year after by buying RPi3.
+I started learning C++ in 2017, and Linux year after by buying RPi3.
 
 # <!-- Small line break, looking better than <hr/> -->  <!-- i stole this line -->
 <!-- <br> for alignment -->
