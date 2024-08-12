@@ -1,43 +1,60 @@
-# ![baner-1](https://github.com/kostek001/kostek001/assets/69671514/d39c956c-c5da-4672-beaa-af00f1655997)
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=kostek001&style=for-the-badge)
+*insert banner here*
 
-[comment]: # (### About Me)
-[comment]: # (I'm a fullstack developer, student.)
+</div>
 
-### Languages and tools 🛠️
+# <!-- Small line break, looking better than <hr/> -->  <!-- i stole this line -->
+
 <p align="center">
-  
-  ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Static Badge](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-  ![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files//nix.svg" height="25px" />
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files//cpp.svg" height="25px" />
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files//python.svg" height="25px" />
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files//typeScript.svg" height="25px" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files//html.svg" height="25px" />
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files//css_dark.svg" height="25px" />
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files//scss.svg" height="25px" />
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files//svelte.svg" height="25px" />
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files//tailwindcss.svg" height="25px" />
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files//js.svg" height="25px" />
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files//php.svg" height="25px" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files//sql.svg" height="25px" />
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files//sqlite.svg" height="25px" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/ui//terminal-linux.svg" height="25px" />
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files//kubernetes.svg" height="25px" />
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files//docker.svg" height="25px" />
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files//git.svg" height="25px" />
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files//gnu.svg" height="25px" />
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/ui//terminal-bash.svg" height="25px" />
+<img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/ui//terminal-ubuntu.svg" height="25px" />
 
-  ![Static Badge](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/nixos-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/raspberry%20pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 </p>
 
-### Github Stats 📈
+# About Me ![](https://komarev.com/ghpvc/?username=kostek001&style=flat-rounded)
+<!-- <br> for alignment -->
+<br>
+
+Linux enthusiast, NixOS daily driver, self-hosting some stuff.  
+I started learning C++ in 2017 by watching [Pasja Informatyki](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo) on Youtube, and Linux year after by buying RPi3.
+
+# <!-- Small line break, looking better than <hr/> -->  <!-- i stole this line -->
+<!-- <br> for alignment -->
+<br>
+
+<div align="center">
+
 <a href="#">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=kostek001&show_icons=true&hide_border=true&theme=github_dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=kostek001&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=kostek001&show_icons=true&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=kostek001&show_icons=true&hide_border=true&include_all_commits=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kostek001&show_icons=true&hide_border=true" />
@@ -57,6 +74,6 @@
   </picture>
 </a>
 
-### Currently Learning 🧠
-![Static Badge](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Static Badge](https://img.shields.io/badge/rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+</div>
+
+# <!-- Small line break, looking better than <hr/> -->  <!-- i stole this line -->
