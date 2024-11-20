@@ -40,6 +40,7 @@
 
 Linux enthusiast, NixOS daily driver, self-hosting some stuff.  
 I started learning C++ in 2017, and Linux year after by buying RPi3.
+Svelte(Kit) enjoyer
 
 # <!-- Small line break, looking better than <hr/> -->  <!-- i stole this line -->
 <!-- <br> for alignment -->
