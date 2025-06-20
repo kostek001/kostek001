@@ -38,7 +38,7 @@
 <!-- <br> for alignment -->
 <br>
 
-Linux enthusiast, NixOS daily driver, self-hosting some stuff.
+Linux enthusiast, NixOS daily driver, self-hosting some stuff. <br>
 Svelte(Kit) enjoyer
 
 # <!-- Small line break, looking better than <hr/> -->  <!-- i stole this line -->
